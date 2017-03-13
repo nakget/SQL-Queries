@@ -4,4 +4,4 @@ Thanks for your contribution
 
 #Go to each line to understand
 
-###generic caln also be used
+###generic can also be used
