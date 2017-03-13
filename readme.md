@@ -3,3 +3,5 @@
 Thanks for your contribution
 
 #Go to each line to understand
+
+###generic can also be used
